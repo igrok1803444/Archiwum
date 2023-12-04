@@ -1,0 +1,85 @@
+body {
+  background-color: rgb(211, 219, 221);
+}
+.left-section {
+  float: left;
+
+  margin: 24px;
+
+  width: calc(50% - 48px);
+  height: 600px;
+
+  background-color: white;
+
+  box-shadow: 0 0 15px black;
+}
+.main-title {
+  margin-top: 0;
+  padding: 8px 4px;
+
+  color: white;
+  background-color: rgb(95, 105, 194);
+}
+.field-name {
+  color: rgb(145, 155, 159);
+
+  padding-left: 24px;
+}
+.person-data {
+  color: rgb(130, 138, 139);
+
+  padding-left: 24px;
+}
+.city {
+  color: rgb(130, 138, 139);
+
+  padding-left: 24px;
+}
+.document-title {
+  color: rgb(145, 155, 159);
+
+  padding-left: 24px;
+}
+
+.employers-number {
+  color: rgb(130, 138, 139);
+
+  padding-left: 24px;
+}
+.right-section {
+  float: left;
+
+  margin: 24px;
+
+  width: 400px;
+  height: 600px;
+
+  background-color: white;
+
+  box-shadow: 0 0 15px black;
+}
+.employe-name {
+  color: rgb(130, 138, 139);
+
+  text-align: center;
+}
+.employee-vacancy {
+  color: rgb(130, 138, 139);
+
+  text-align: center;
+}
+.employe-text {
+  color: rgb(130, 138, 139);
+}
+.footer {
+  clear: both;
+
+  padding: 24px;
+
+  background-color: rgb(95, 105, 194);
+
+  color: white;
+}
+.footer-text {
+  margin-top: 0;
+}
